@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce" parallel="false">
+   <parameter name="environment" value="TESTING" />
+  <test name="Run on FIREFOX">
+  <parameter name="browser" value="Firefox" />
+    <classes>
+<!--     <class name="com.nopcommerce.common.Common_01_Register_Cookie"/> -->
+      <class name="com.nopcommerce.user.Level_18_Pattern_Object"/>
+    </classes>
+<!--     <listeners> -->
+<!--       <listener class-name="commons.MethodListener"/> -->
+<!--      <listener class-name="reportConfig.ReportNGListener"/> -->
+<!--       <listener class-name="reportConfig.ExtentTestListenerv5"/> -->
+<!--       <listener class-name="reportConfig.AllureTestListener"/> -->
+<!--       <listener class-name="org.uncommons.reportng.HTMLReporter"/> -->
+<!--       <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+<!--     </listeners> -->
+  </test>   
+<!--   <test name="Run on FIREFOX_HEADLESS">
+  <parameter name="browser" value="h_Firefox" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test>   --> 
+  <!-- <test name="Run on CHROME">
+  <parameter name="browser" value="Chrome" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test> -->
+<!--     <test name="Run on CHROME_HEADLESS">
+  <parameter name="browser" value="h_Chrome" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test> -->
+ <!--  <test name="Run on EDGE">
+  <parameter name="browser" value="Edge" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+    </test> -->
+<!--   <test name="Run on OPERA">
+  <parameter name="browser" value="Opera" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test>
+    <test name="Run on BRAVE">
+  <parameter name="browser" value="Brave" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test>
+    <test name="Run on COCCOC">
+  <parameter name="browser" value="CocCoc" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test> --> -->
+  
+</suite> 

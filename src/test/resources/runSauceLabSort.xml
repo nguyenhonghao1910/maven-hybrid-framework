@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceLab" parallel="false">
+   <parameter name="environment" value="TESTING" />
+  <test name="Run on FIREFOX">
+  <parameter name="browser" value="Firefox" />
+    <classes>
+      <class name="com.saucelab.sort.Level_22_Sort_Data"/>
+    </classes>
+    <listeners>
+      <listener class-name="commons.MethodListener"/>
+<!--      <listener class-name="reportConfig.ReportNGListener"/> -->
+<!--       <listener class-name="reportConfig.ExtentTestListenerv5"/> -->
+<!--       <listener class-name="reportConfig.AllureTestListener"/> -->
+<!--       <listener class-name="org.uncommons.reportng.HTMLReporter"/> -->
+<!--       <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+    </listeners>
+  </test>   
+
+</suite> 

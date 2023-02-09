@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HRM" parallel="false">
+<!--     <parameter name="environment" value="TESTING" /> -->
+    
+<!--     <parameter name="usernameAdmin" value="Admin" /> -->
+<!--     <parameter name="passwordAdmin" value="Admin123" /> -->
+    
+<!--     <parameter name="empFirstname" value="Thememo" /> -->
+<!--     <parameter name="empLastnameUser" value="Tester" /> -->
+<!--     <parameter name="empUsername" value="AutoGene" /> -->
+<!--     <parameter name="empPasswod" value="automationtest" /> -->
+<!--     <parameter name="statusValue" value="Enabled" /> -->
+    
+<!--     <parameter name="avatar" value="Avatar.png" /> -->
+    
+           
+<!--   <test name="Run on FIREFOX"> -->
+<!--   <parameter name="browser" value="Firefox" /> -->
+<!--     <classes> -->
+<!--       <class name="com.hrm.employee.Level_23_Fake_Data"/> -->
+<!--     </classes> -->
+<!--   </test>    -->
+    <test name="Run on CHROME">
+  <parameter name="browser" value="Chrome" />
+    <classes>
+      <class name="com.hrm.employee.Level_23_Data_Test_I_Into_Class"/>
+    </classes>
+  </test>
+<!--       <test name="Run on IE"> -->
+<!--   <parameter name="browser" value="ie" /> -->
+<!--     <classes> -->
+<!--       <class name="com.hrm.employee.Level_23_Data_Test_I_Into_Class"/> -->
+<!--     </classes> -->
+<!--   </test> -->
+<!--   <listeners> -->
+<!--       <listener class-name="commons.MethodListener"/> -->
+<!--      <listener class-name="reportConfig.ReportNGListener"/> -->
+<!--       <listener class-name="reportConfig.ExtentTestListenerv5"/> -->
+<!--       <listener class-name="reportConfig.AllureTestListener"/> -->
+<!--       <listener class-name="org.uncommons.reportng.HTMLReporter"/> -->
+<!--       <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+<!--     </listeners> -->
+<!--   <test name="Run on FIREFOX_HEADLESS"> -->
+<!--   <parameter name="browser" value="h_Firefox" /> -->
+<!--     <classes> -->
+<!--       <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/> -->
+<!--     </classes> -->
+<!--   </test>    -->
+
+<!--     <test name="Run on CHROME_HEADLESS">
+  <parameter name="browser" value="h_Chrome" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test> -->
+ <!--  <test name="Run on EDGE">
+  <parameter name="browser" value="Edge" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+    </test> -->
+<!--   <test name="Run on OPERA">
+  <parameter name="browser" value="Opera" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test>
+    <test name="Run on BRAVE">
+  <parameter name="browser" value="Brave" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test>
+    <test name="Run on COCCOC">
+  <parameter name="browser" value="CocCoc" />
+    <classes>
+      <class name="com.nopcommerce.user.Level_04_Page_Object_02_Login_Multiple_Browser"/>
+    </classes>
+  </test> --> -->
+  
+</suite> 

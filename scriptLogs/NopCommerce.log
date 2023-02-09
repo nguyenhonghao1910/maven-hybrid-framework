@@ -1,0 +1,267 @@
+[2022-02-14 21:04:30,465] Register_Account-Step 01: Open Register page
+[2022-02-14 21:04:31,872] Register_Account-Step 02: Enter to Firstname textbox with value is 'Tester'
+[2022-02-14 21:04:32,080] Register_Account-Step 03: Enter to Lastname textbox with value is 'Automation'
+[2022-02-14 21:04:32,245] Register_Account-Step 04: Enter to Email textbox with value is 'abc12@mail.vn'
+[2022-02-14 21:04:32,433] Register_Account-Step 05: Enter to Password textbox with value is '123456'
+[2022-02-14 21:04:32,626] Register_Account-Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-02-14 21:04:32,876] Register_Account-Step 07: Click to 'Register' button 
+[2022-02-14 21:04:34,379] Register_Account-Step 08: Verify register message is displayed
+[2022-02-14 21:04:34,568] Register_Account-Step 09: Click to Logout link 
+[2022-02-14 21:04:35,940] Login_Account-Step 01: Navigate to Login page 
+[2022-02-14 21:04:37,089] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc12@mail.vn'
+[2022-02-14 21:04:37,269] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-02-14 21:04:37,403] Login_Account-Step 04: Click to Login button 
+[2022-02-14 21:04:38,706] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-02-14 21:04:39,010] Login_Account-Step 06: Navigate to 'My Account' page 
+[2022-02-14 21:04:40,153] Login_Account-Step 07: Verify 'Customer Infor' page is displayed 
+[2022-02-14 21:09:25,033] Register_Account-Step 01: Open Register page
+[2022-02-14 21:09:26,314] Register_Account-Step 02: Enter to Firstname textbox with value is 'Tester'
+[2022-02-14 21:09:26,500] Register_Account-Step 03: Enter to Lastname textbox with value is 'Automation'
+[2022-02-14 21:09:26,649] Register_Account-Step 04: Enter to Email textbox with value is 'abc1247@mail.vn'
+[2022-02-14 21:09:26,768] Register_Account-Step 05: Enter to Password textbox with value is '123456'
+[2022-02-14 21:09:26,881] Register_Account-Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-02-14 21:09:26,973] Register_Account-Step 07: Click to 'Register' button 
+[2022-02-14 21:09:28,211] Register_Account-Step 08: Verify register message is displayed
+[2022-02-14 21:09:28,384]  -------------------------- PASSED -------------------------- 
+[2022-02-14 21:09:28,384] Register_Account-Step 09: Click to Logout link 
+[2022-02-14 21:09:29,610] Login_Account-Step 01: Navigate to Login page 
+[2022-02-14 21:09:30,618] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc1247@mail.vn'
+[2022-02-14 21:09:30,778] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-02-14 21:09:30,893] Login_Account-Step 04: Click to Login button 
+[2022-02-14 21:09:32,080] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-02-14 21:09:32,282]  -------------------------- PASSED -------------------------- 
+[2022-02-14 21:09:32,282] Login_Account-Step 06: Navigate to 'My Account' page 
+[2022-02-14 21:09:33,228] Login_Account-Step 07: Verify 'Customer Infor' page is displayed 
+[2022-02-14 21:09:33,582]  -------------------------- PASSED -------------------------- 
+[2022-02-14 21:21:48,097] Register_Account-Step 01: Open Register page
+[2022-02-14 21:21:49,880] Register_Account-Step 02: Enter to Firstname textbox with value is 'Tester'
+[2022-02-14 21:21:50,108] Register_Account-Step 03: Enter to Lastname textbox with value is 'Automation'
+[2022-02-14 21:21:50,252] Register_Account-Step 04: Enter to Email textbox with value is 'abc5353@mail.vn'
+[2022-02-14 21:21:50,388] Register_Account-Step 05: Enter to Password textbox with value is '123456'
+[2022-02-14 21:21:50,501] Register_Account-Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-02-14 21:21:50,624] Register_Account-Step 07: Click to 'Register' button 
+[2022-02-14 21:21:51,974] Register_Account-Step 08: Verify register message is displayed
+[2022-02-14 21:21:52,213]  -------------------------- PASSED -------------------------- 
+[2022-02-14 21:21:52,214] Register_Account-Step 09: Click to Logout link 
+[2022-02-14 21:21:53,561] Login_Account-Step 01: Navigate to Login page 
+[2022-02-14 21:21:54,634] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc5353@mail.vn'
+[2022-02-14 21:21:54,813] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-02-14 21:21:54,984] Login_Account-Step 04: Click to Login button 
+[2022-02-14 21:21:56,378] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-02-14 21:21:56,659]  -------------------------- PASSED -------------------------- 
+[2022-02-14 21:21:56,659] Login_Account-Step 06: Navigate to 'My Account' page 
+[2022-02-14 21:21:57,988] Login_Account-Step 07: Verify 'Customer Infor' page is displayed 
+[2022-02-14 21:21:58,299]  -------------------------- PASSED -------------------------- 
+[2022-02-27 18:37:23,175] Register_Account-Step 01: Open Register page
+[2022-02-27 18:37:24,132] Register_Account-Step 02: Enter to Firstname textbox with value is 'Tester'
+[2022-02-27 18:37:24,290] Register_Account-Step 03: Enter to Lastname textbox with value is 'Automation'
+[2022-02-27 18:37:24,389] Register_Account-Step 04: Enter to Email textbox with value is 'abc3598@mail.vn'
+[2022-02-27 18:37:24,483] Register_Account-Step 05: Enter to Password textbox with value is '123456'
+[2022-02-27 18:37:24,551] Register_Account-Step 06: Enter to Confirm Password textbox with value is '123456'
+[2022-02-27 18:37:24,645] Register_Account-Step 07: Click to 'Register' button 
+[2022-02-27 18:37:25,670] Register_Account-Step 08: Verify register message is displayed
+[2022-02-27 18:37:25,940] Login_Account-Step 01: Navigate to Login page 
+[2022-03-19 11:32:01,073] Login_Account-Step 01: Navigate to Login page 
+[2022-03-19 11:32:01,912] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc1812@mail.vn'
+[2022-03-19 11:32:02,029] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-19 11:32:02,102] Login_Account-Step 04: Click to Login button 
+[2022-03-19 13:32:36,207] Pre-Condition - Step 01: Navigate to Login page 
+[2022-03-19 13:32:37,516] Pre-Condition - Step 02: Set Cookie and reload page
+[2022-03-19 13:32:41,511] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-19 13:32:41,745]  -------------------------- PASSED -------------------------- 
+[2022-03-30 21:16:27,519] Register_Account-Step 01: Open Register page
+[2022-03-30 21:16:28,980] Register_Account-Step 02: click to radio Male
+[2022-03-30 21:16:29,469] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 21:17:10,432] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 21:17:11,386] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc250@mail.vn'
+[2022-03-30 21:17:11,723] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 21:17:11,954] Login_Account-Step 04: Click to Login button 
+[2022-03-30 21:17:12,731] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 21:17:53,367] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 21:18:33,946] OS name = windows 10
+[2022-03-30 21:18:33,946] Driver instance name = firefoxdriver: firefox on windows (004fb881-0695-4f83-b955-9721a8f5567e)
+[2022-03-30 21:24:34,738] Register_Account-Step 01: Open Register page
+[2022-03-30 21:24:35,799] Register_Account-Step 02: click to radio Male
+[2022-03-30 21:24:36,245] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 21:25:17,026] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 21:25:17,769] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc8033@mail.vn'
+[2022-03-30 21:25:17,963] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 21:25:18,121] Login_Account-Step 04: Click to Login button 
+[2022-03-30 21:25:18,749] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 21:25:59,343] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 21:26:39,927] OS name = windows 10
+[2022-03-30 21:26:39,928] Driver instance name = firefoxdriver: firefox on windows (07c0dbfd-10d1-48dd-8b63-bf5b91fb1805)
+[2022-03-30 21:31:49,083] Register_Account-Step 01: Open Register page
+[2022-03-30 21:31:50,154] Register_Account-Step 02: click to radio Male
+[2022-03-30 21:31:50,567] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 21:32:31,338] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 21:32:32,111] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc3448@mail.vn'
+[2022-03-30 21:32:32,262] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 21:32:32,386] Login_Account-Step 04: Click to Login button 
+[2022-03-30 21:32:33,027] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 21:33:13,631] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 21:33:54,225] OS name = windows 10
+[2022-03-30 21:33:54,226] Driver instance name = firefoxdriver: firefox on windows (2d1c0479-bfe6-46aa-a9cd-204179c0e1a4)
+[2022-03-30 22:56:24,383] Register_Account-Step 01: Open Register page
+[2022-03-30 22:56:25,301] Register_Account-Step 02: click to radio Male
+[2022-03-30 22:56:28,669] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 22:57:06,697] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 22:57:07,028] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 22:57:07,069] OS name = windows 10
+[2022-03-30 22:57:07,069] Driver instance name = firefoxdriver: firefox on windows (8862c8ac-0566-44d5-bab1-fe1e8991d2d6)
+[2022-03-30 22:57:07,089] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-BKTJ1C5', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 98.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220322144853, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 4288, moz:profile: C:\Users\NguyenHongHao\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8862c8ac-0566-44d5-bab1-fe1e8991d2d6
+[2022-03-30 22:59:30,350] Register_Account-Step 01: Open Register page
+[2022-03-30 22:59:31,207] Register_Account-Step 02: click to radio Male
+[2022-03-30 22:59:31,609] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 22:59:31,769] Register_Account-Step 04: Enter to Lastname textbox with value is 'Automation'
+[2022-03-30 22:59:31,913] Register_Account-Step 05: select to day dropdown with value is '20'
+[2022-03-30 22:59:32,298] Register_Account-Step 06: select to day dropdown with value is 'April'
+[2022-03-30 22:59:32,688] Register_Account-Step 07: select to day dropdown with value is '1994'
+[2022-03-30 22:59:33,049] Register_Account-Step 08: Enter to Email textbox with value is 'abc4640@mail.vn'
+[2022-03-30 22:59:33,178] Register_Account-Step 09: click to Newsletter
+[2022-03-30 22:59:33,486] Register_Account-Step 10: Enter to Password textbox with value is '123456'
+[2022-03-30 22:59:33,601] Register_Account-Step 11: Enter to Confirm Password textbox with value is '123456'
+[2022-03-30 22:59:33,718] Register_Account-Step 12: Click to 'Register' button 
+[2022-03-30 22:59:34,812] Register_Account-Step 13: Verify register message is displayed
+[2022-03-30 22:59:34,911]  -------------------------- PASSED -------------------------- 
+[2022-03-30 22:59:34,911] Register_Account-Step 14: Click to Logout link 
+[2022-03-30 22:59:36,010] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 22:59:36,691] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc4640@mail.vn'
+[2022-03-30 22:59:36,839] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 22:59:36,998] Login_Account-Step 04: Click to Login button 
+[2022-03-30 22:59:37,981] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 22:59:38,116]  -------------------------- PASSED -------------------------- 
+[2022-03-30 22:59:38,127] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 22:59:38,869] My_Account-Step 02: Verify 'Customer Infor' page is displayed 
+[2022-03-30 22:59:38,986]  -------------------------- PASSED -------------------------- 
+[2022-03-30 22:59:38,987] My_Account-Step 03: Verify 'Firstname' value is correctly 
+[2022-03-30 23:00:19,586] OS name = windows 10
+[2022-03-30 23:00:19,587] Driver instance name = firefoxdriver: firefox on windows (0d954413-8056-42f8-a8cc-b55738daf2cf)
+[2022-03-30 23:04:32,159] Register_Account-Step 01: Open Register page
+[2022-03-30 23:04:33,076] Register_Account-Step 02: click to radio Male
+[2022-03-30 23:04:33,449] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 23:04:33,609] Register_Account-Step 04: Enter to Lastname textbox with value is 'Automation'
+[2022-03-30 23:04:33,763] Register_Account-Step 05: select to day dropdown with value is '20'
+[2022-03-30 23:04:34,159] Register_Account-Step 06: select to day dropdown with value is 'April'
+[2022-03-30 23:04:34,515] Register_Account-Step 07: select to day dropdown with value is '1994'
+[2022-03-30 23:04:34,861] Register_Account-Step 08: Enter to Email textbox with value is 'abc5476@mail.vn'
+[2022-03-30 23:04:35,009] Register_Account-Step 09: click to Newsletter
+[2022-03-30 23:04:35,315] Register_Account-Step 10: Enter to Password textbox with value is '123456'
+[2022-03-30 23:04:35,459] Register_Account-Step 11: Enter to Confirm Password textbox with value is '123456'
+[2022-03-30 23:04:45,579] Register_Account-Step 12: Click to 'Register' button 
+[2022-03-30 23:04:46,712] Register_Account-Step 13: Verify register message is displayed
+[2022-03-30 23:04:46,819]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:04:46,819] Register_Account-Step 14: Click to Logout link 
+[2022-03-30 23:04:48,011] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 23:04:48,726] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc5476@mail.vn'
+[2022-03-30 23:04:48,861] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 23:04:49,003] Login_Account-Step 04: Click to Login button 
+[2022-03-30 23:04:50,145] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 23:04:50,266]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:04:50,280] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 23:04:50,985] My_Account-Step 02: Verify 'Customer Infor' page is displayed 
+[2022-03-30 23:04:51,106]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:04:51,106] My_Account-Step 03: Verify 'Firstname' value is correctly 
+[2022-03-30 23:04:51,187] My_Account-Step 04: Verify 'Lastname' value is correctly 
+[2022-03-30 23:04:51,272] My_Account-Step 05: Verify 'Email' value is correctly 
+[2022-03-30 23:04:51,369] OS name = windows 10
+[2022-03-30 23:04:51,370] Driver instance name = firefoxdriver: firefox on windows (c319d59a-2be3-4063-928c-842bc74a8eb0)
+[2022-03-30 23:11:21,040] Register_Account-Step 01: Open Register page
+[2022-03-30 23:11:21,985] Register_Account-Step 02: click to radio Male
+[2022-03-30 23:11:22,370] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-03-30 23:11:22,544] Register_Account-Step 04: Enter to Lastname textbox with value is 'Automation'
+[2022-03-30 23:11:22,686] Register_Account-Step 05: select to day dropdown with value is '20'
+[2022-03-30 23:11:23,092] Register_Account-Step 06: select to day dropdown with value is 'April'
+[2022-03-30 23:11:23,420] Register_Account-Step 07: select to day dropdown with value is '1994'
+[2022-03-30 23:11:23,760] Register_Account-Step 08: Enter to Email textbox with value is 'abc4316@mail.vn'
+[2022-03-30 23:11:23,921] Register_Account-Step 09: click to Newsletter
+[2022-03-30 23:11:23,989] Register_Account-Step 10: Enter to Password textbox with value is '123456'
+[2022-03-30 23:11:24,120] Register_Account-Step 11: Enter to Confirm Password textbox with value is '123456'
+[2022-03-30 23:11:29,274] Register_Account-Step 12: Click to 'Register' button 
+[2022-03-30 23:11:30,381] Register_Account-Step 13: Verify register message is displayed
+[2022-03-30 23:11:30,485]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:11:30,485] Register_Account-Step 14: Click to Logout link 
+[2022-03-30 23:11:31,687] Login_Account-Step 01: Navigate to Login page 
+[2022-03-30 23:11:32,405] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc4316@mail.vn'
+[2022-03-30 23:11:32,551] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-03-30 23:11:32,696] Login_Account-Step 04: Click to Login button 
+[2022-03-30 23:11:33,685] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-03-30 23:11:33,807]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:11:33,819] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-03-30 23:11:34,521] My_Account-Step 02: Verify 'Customer Infor' page is displayed 
+[2022-03-30 23:11:34,647]  -------------------------- PASSED -------------------------- 
+[2022-03-30 23:11:34,647] My_Account-Step 03: Verify 'Firstname' value is correctly 
+[2022-03-30 23:11:34,729] My_Account-Step 04: Verify 'Lastname' value is correctly 
+[2022-03-30 23:11:34,808] My_Account-Step 05: Verify 'Email' value is correctly 
+[2022-03-30 23:11:34,905] OS name = windows 10
+[2022-03-30 23:11:34,906] Driver instance name = firefoxdriver: firefox on windows (32eb2502-660b-4f46-bb6b-ca092b49b49b)
+[2022-04-02 22:53:27,115] Register_Account-Step 01: Open Register page
+[2022-04-02 22:53:28,095] Register_Account-Step 02: click to radio Male
+[2022-04-02 22:53:28,480] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-04-02 22:53:28,643] Register_Account-Step 04: Enter to Lastname textbox with value is 'Automation'
+[2022-04-02 22:53:28,780] Register_Account-Step 05: select to day dropdown with value is '20'
+[2022-04-02 22:53:29,150] Register_Account-Step 06: select to day dropdown with value is 'April'
+[2022-04-02 22:53:29,475] Register_Account-Step 07: select to day dropdown with value is '1994'
+[2022-04-02 22:53:29,830] Register_Account-Step 08: Enter to Email textbox with value is 'abc5062@mail.vn'
+[2022-04-02 22:53:29,977] Register_Account-Step 09: click to Newsletter
+[2022-04-02 22:53:30,042] Register_Account-Step 10: Enter to Password textbox with value is '123456'
+[2022-04-02 22:53:30,157] Register_Account-Step 11: Enter to Confirm Password textbox with value is '123456'
+[2022-04-02 22:53:35,296] Register_Account-Step 12: Click to 'Register' button 
+[2022-04-02 22:53:36,509] Register_Account-Step 13: Verify register message is displayed
+[2022-04-02 22:53:36,601]  -------------------------- PASSED -------------------------- 
+[2022-04-02 22:53:36,601] Register_Account-Step 14: Click to Logout link 
+[2022-04-02 22:53:37,859] Login_Account-Step 01: Navigate to Login page 
+[2022-04-02 22:53:40,175] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc5062@mail.vn'
+[2022-04-02 22:53:40,315] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-04-02 22:53:40,446] Login_Account-Step 04: Click to Login button 
+[2022-04-02 22:53:41,459] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-04-02 22:53:41,596]  -------------------------- PASSED -------------------------- 
+[2022-04-02 22:53:41,608] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-04-02 22:53:42,324] My_Account-Step 02: Verify 'Customer Infor' page is displayed 
+[2022-04-02 22:53:42,454]  -------------------------- PASSED -------------------------- 
+[2022-04-02 22:53:42,455] My_Account-Step 03: Verify 'Male' value is correctly 
+[2022-04-02 22:54:23,084] OS name = windows 10
+[2022-04-02 22:54:23,085] Driver instance name = firefoxdriver: firefox on windows (76f557ba-71c0-45a1-8be4-055ca33f75b3)
+[2022-04-02 23:00:19,059] Register_Account-Step 01: Open Register page
+[2022-04-02 23:00:20,043] Register_Account-Step 02: click to radio Male
+[2022-04-02 23:00:20,415] Register_Account-Step 03: Enter to Firstname textbox with value is 'Tester'
+[2022-04-02 23:00:20,575] Register_Account-Step 04: Enter to Lastname textbox with value is 'Automation'
+[2022-04-02 23:00:20,749] Register_Account-Step 05: select to day dropdown with value is '20'
+[2022-04-02 23:00:21,195] Register_Account-Step 06: select to day dropdown with value is 'April'
+[2022-04-02 23:00:21,567] Register_Account-Step 07: select to day dropdown with value is '1994'
+[2022-04-02 23:00:21,943] Register_Account-Step 08: Enter to Email textbox with value is 'abc9565@mail.vn'
+[2022-04-02 23:00:22,067] Register_Account-Step 09: click to Newsletter
+[2022-04-02 23:00:22,135] Register_Account-Step 10: Enter to Password textbox with value is '123456'
+[2022-04-02 23:00:22,253] Register_Account-Step 11: Enter to Confirm Password textbox with value is '123456'
+[2022-04-02 23:00:22,379] Register_Account-Step 12: Click to 'Register' button 
+[2022-04-02 23:00:23,520] Register_Account-Step 13: Verify register message is displayed
+[2022-04-02 23:00:23,634]  -------------------------- PASSED -------------------------- 
+[2022-04-02 23:00:23,635] Register_Account-Step 14: Click to Logout link 
+[2022-04-02 23:00:24,811] Login_Account-Step 01: Navigate to Login page 
+[2022-04-02 23:00:25,542] Login_Account-Step 02: Enter to Firstname textbox with value is 'abc9565@mail.vn'
+[2022-04-02 23:00:25,682] Login_Account-Step 03: Enter to Firstname textbox with value is '123456'
+[2022-04-02 23:00:25,824] Login_Account-Step 04: Click to Login button 
+[2022-04-02 23:00:26,845] Login_Account-Step 05: Verify 'My Account' link is displayed 
+[2022-04-02 23:00:27,014]  -------------------------- PASSED -------------------------- 
+[2022-04-02 23:00:27,027] My_Account-Step 01: Navigate to 'My Account' page 
+[2022-04-02 23:00:27,794] My_Account-Step 02: Verify 'Customer Infor' page is displayed 
+[2022-04-02 23:00:27,910]  -------------------------- PASSED -------------------------- 
+[2022-04-02 23:00:27,910] My_Account-Step 03: Verify 'Male' value is correctly 
+[2022-04-02 23:00:28,018] My_Account-Step 04: Verify 'Firstname' value is correctly 
+[2022-04-02 23:00:28,097] My_Account-Step 05: Verify 'Lastname' value is correctly 
+[2022-04-02 23:00:28,191] My_Account-Step 06: Verify 'DateOfBirthDay' value is correctly 
+[2022-04-02 23:00:28,415] My_Account-Step 07: Verify 'DateOfBirthMonth' value is correctly 
+[2022-04-02 23:00:28,544] My_Account-Step 08: Verify 'DateOfBirthYear' value is correctly 
+[2022-04-02 23:00:29,049] My_Account-Step 09: Verify 'Email' value is correctly 
+[2022-04-02 23:00:29,132] My_Account-Step 10: Verify 'Newsletter' value is selected 
+[2022-04-02 23:00:29,201] OS name = windows 10
+[2022-04-02 23:00:29,202] Driver instance name = firefoxdriver: firefox on windows (c68963cd-d9a1-4901-aab6-b5a9a628c8d1)
+[2022-06-26 10:59:56,921] OS name = windows 10
+[2022-06-26 10:59:56,965] 
+[2022-06-26 11:02:53,676] OS name = windows 10
+[2022-06-26 11:02:53,679] 

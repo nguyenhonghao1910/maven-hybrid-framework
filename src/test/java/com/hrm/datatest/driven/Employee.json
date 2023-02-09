@@ -1,0 +1,26 @@
+{
+		"statusValue" : "Enabled",
+		"usernameAdmin" : "Admin",
+		"passwordAdmin" : "admin123",
+		"firstname":"Lua", 
+		"lastname" :"Ngo", 
+		"username" :"Khoai San", 
+		"passwod" :"Khoailangnuong@123", 
+		"fullnameUser" : "firstname + " " + lastnameUser",
+		
+		"MyInfo":{
+		"avatar":"Avatar.png"
+		},
+		
+		"PersonalDetails":{
+		
+		"edit_Firstname":"Dau",
+		"edit_Lastname":"Xanh",
+		"otherId"="12345678",
+		"gender"="Male",
+		"nationality"="Vietnamese",
+		"maritalStatus"="Single",
+		"licenseExpiryDate":"2022-04-12"
+		}
+		
+		}

@@ -1,0 +1,1 @@
+{"uuid":"59801d3b-05f0-44e4-93a4-d44dea687088","name":"runBankGuru","children":["e978b4f6-8131-425f-8062-2c2db6503bc8"],"befores":[{"name":"initBeforeSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1656217475978,"stop":1656217476026}],"afters":[],"links":[],"start":1656217475751,"stop":1656217478221}
